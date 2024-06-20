@@ -424,10 +424,12 @@ article .icon {
 /* FOOTER SECTION */
 
 footer {
+  
   height: 26vh;
   margin: 0 1rem;
 }
 
 footer p {
+  margin-top: 0%;
   text-align: center;
 }
